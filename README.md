@@ -17,11 +17,11 @@ Suppose, there are ‘n’ elements in the array. Therefore, at worst case, ther
 
 Therefore,
 
-# Time complexity: O(n)
+##Time complexity: O(n)
 
-# Space complexity: O(1)
+## Space complexity: O(1)
 
-# Selection Sort:
+## Selection Sort:
 
     SelectionSort(Arr[], arr_size):    
         FOR i from 1 to arr_size:    
@@ -38,6 +38,6 @@ Total iterations = (n – 1) + (n – 2) + . . . + 1 = (n * (n – 1)) / 2 = (n2
 
 Therefore,
 
-# Time complexity: O(n2)
+## Time complexity: O(n2)
 
-# Space complexity: O(1)
+## Space complexity: O(1)
