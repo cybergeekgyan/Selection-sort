@@ -17,7 +17,7 @@ Suppose, there are ‘n’ elements in the array. Therefore, at worst case, ther
 
 Therefore,
 
-##Time complexity: O(n)
+## Time complexity: O(n)
 
 ## Space complexity: O(1)
 
